@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elev\\Desktop\\AxelHeber\\MVC_Habits\\MVC_Habit.csproj": {}
+    "C:\\Users\\elev\\Documents\\GitHub\\FinalProyect_EF_Identity\\MVC_Habit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elev\\Desktop\\AxelHeber\\MVC_Habits\\MVC_Habit.csproj": {
+    "C:\\Users\\elev\\Documents\\GitHub\\FinalProyect_EF_Identity\\MVC_Habit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elev\\Desktop\\AxelHeber\\MVC_Habits\\MVC_Habit.csproj",
+        "projectUniqueName": "C:\\Users\\elev\\Documents\\GitHub\\FinalProyect_EF_Identity\\MVC_Habit.csproj",
         "projectName": "MVC_Habit",
-        "projectPath": "C:\\Users\\elev\\Desktop\\AxelHeber\\MVC_Habits\\MVC_Habit.csproj",
+        "projectPath": "C:\\Users\\elev\\Documents\\GitHub\\FinalProyect_EF_Identity\\MVC_Habit.csproj",
         "packagesPath": "C:\\Users\\elev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elev\\Desktop\\AxelHeber\\MVC_Habits\\obj\\",
+        "outputPath": "C:\\Users\\elev\\Documents\\GitHub\\FinalProyect_EF_Identity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
