@@ -19,7 +19,7 @@ a {
 
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
     color: #fff;
-    background-color: #66ff99;
+    background-color: white;
     border-color: #1861ac;
 }
 
@@ -50,7 +50,7 @@ button.accept-policy {
   line-height: inherit;
 }
 .card-header {
-    background-color: #f172a1;
+    background-color: white;
 }
 /* Sticky footer styles
 -------------------------------------------------- */
@@ -63,7 +63,7 @@ body {
     /* Margin bottom by footer height */
     margin-bottom: 60px;
     font-family: 'Source Sans Pro', sans-serif;
-    background-color: #a1c3d1;
+    background-color:white;
 }
 
 .footer {
