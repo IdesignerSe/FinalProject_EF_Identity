@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5R7Kugf7Aqng7MDpx1MQN7pDAxyovXwTqaoarBPRXN5YglEU9N8YoaXQX9VaI6neoZi8CtSQgGEAdeBgJ+qPCw==",
+  "dgSpecHash": "yOjWiryzsSJSAdu/GkyGUE5L6tpIF4/48L70b8XuYYLzSo41CZJ8XVw8fyNE0i+tKDFqx7BXgQCNWgLG4i0VwQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\elev\\Documents\\GitHub\\FinalProyect_EF_Identity\\MVC_Habit.csproj",
+  "projectFilePath": "C:\\Users\\elev\\Documents\\GitHub\\FinalProject_EF_Identity\\MVC_Habit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\elev\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\elev\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
